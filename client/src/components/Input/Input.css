@@ -1,0 +1,23 @@
+.input-form{
+    display: flex;
+}
+.text-input{
+    padding: 2%;
+    width: 85%;
+    font-size: .8rem;
+    border-radius: 5px;
+    margin-left: 10px;
+}
+.send-button{
+    margin-left: 10px;
+    padding: 2%;
+    position: relative;
+    text-align: center;
+    width: fit-content;
+    max-width: 10%;
+    font-size: 20px;
+    background-color: rgb(59, 59, 236);
+    color: white;
+    border-radius: 5px;
+    font-weight: 500;
+}
